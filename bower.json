@@ -1,9 +1,0 @@
-{
-  "name": "stellar-lib",
-  "version": "0.0.1",
-  "private": false,
-  "main": "dist/stellar-base.js",
-  "dependencies": {},
-  "devDependencies": {},
-  "ignore": []
-}
